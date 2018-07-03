@@ -1,0 +1,39 @@
+.side-nav {
+  padding: 30px;
+}
+
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: 3px solid #f4f4f4 !important;
+}
+
+/* CUSTOM CSS SO THE AUTOCOMPLETE WON'T EXTEND THE AREA ON OPENING; WE WANT IT TO GO OUTSIDE OF IT AND STAY THE SAME HEIGHT */
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-icons {
+  padding-top: 40px;
+}
+
+.section-popular h4,
+.section-gallery h4,
+.form-header {
+  margin-bottom: 30px;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact ul {
+  margin-top: 60px;
+}
